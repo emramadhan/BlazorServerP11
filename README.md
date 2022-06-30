@@ -1,5 +1,5 @@
 # BlazorServerP11
-If you directly run an old project using Visual Studio 2022 you will get an error message. You must first migrate from the old version of ASP.NET Core to the new one.
+If you directly run an old project using Visual Studio 2022, you will get an error message. You must first migrate from the old version of ASP.NET Core to the new one.
 
 #blazor #aspNetCore #net6 #VisualStudio2022 #migration
 
